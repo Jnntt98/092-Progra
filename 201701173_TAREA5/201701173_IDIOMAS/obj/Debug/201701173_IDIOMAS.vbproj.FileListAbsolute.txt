@@ -1,0 +1,5 @@
+C:\Users\Usuario\Documents\FIUSAC\1S 2022\Progra 092\201701173_TAREA5\201701173_IDIOMAS\obj\Debug\201701173_IDIOMAS.vbproj.AssemblyReference.cache
+C:\Users\Usuario\Documents\FIUSAC\1S 2022\Progra 092\201701173_TAREA5\201701173_IDIOMAS\obj\Debug\_201701173_IDIOMAS.Form1.resources
+C:\Users\Usuario\Documents\FIUSAC\1S 2022\Progra 092\201701173_TAREA5\201701173_IDIOMAS\obj\Debug\_201701173_IDIOMAS.Resources.resources
+C:\Users\Usuario\Documents\FIUSAC\1S 2022\Progra 092\201701173_TAREA5\201701173_IDIOMAS\obj\Debug\201701173_IDIOMAS.vbproj.GenerateResource.cache
+C:\Users\Usuario\Documents\FIUSAC\1S 2022\Progra 092\201701173_TAREA5\201701173_IDIOMAS\obj\Debug\201701173_IDIOMAS.vbproj.CoreCompileInputs.cache
