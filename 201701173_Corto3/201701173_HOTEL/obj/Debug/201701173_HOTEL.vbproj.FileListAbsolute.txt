@@ -1,0 +1,12 @@
+C:\Users\Usuario\Documents\FIUSAC\1S 2022\Progra 092\201701173_Corto3\201701173_HOTEL\bin\Debug\201701173_HOTEL.exe.config
+C:\Users\Usuario\Documents\FIUSAC\1S 2022\Progra 092\201701173_Corto3\201701173_HOTEL\bin\Debug\201701173_HOTEL.exe
+C:\Users\Usuario\Documents\FIUSAC\1S 2022\Progra 092\201701173_Corto3\201701173_HOTEL\bin\Debug\201701173_HOTEL.pdb
+C:\Users\Usuario\Documents\FIUSAC\1S 2022\Progra 092\201701173_Corto3\201701173_HOTEL\bin\Debug\201701173_HOTEL.xml
+C:\Users\Usuario\Documents\FIUSAC\1S 2022\Progra 092\201701173_Corto3\201701173_HOTEL\obj\Debug\201701173_HOTEL.vbproj.AssemblyReference.cache
+C:\Users\Usuario\Documents\FIUSAC\1S 2022\Progra 092\201701173_Corto3\201701173_HOTEL\obj\Debug\_201701173_HOTEL.Form1.resources
+C:\Users\Usuario\Documents\FIUSAC\1S 2022\Progra 092\201701173_Corto3\201701173_HOTEL\obj\Debug\_201701173_HOTEL.Resources.resources
+C:\Users\Usuario\Documents\FIUSAC\1S 2022\Progra 092\201701173_Corto3\201701173_HOTEL\obj\Debug\201701173_HOTEL.vbproj.GenerateResource.cache
+C:\Users\Usuario\Documents\FIUSAC\1S 2022\Progra 092\201701173_Corto3\201701173_HOTEL\obj\Debug\201701173_HOTEL.vbproj.CoreCompileInputs.cache
+C:\Users\Usuario\Documents\FIUSAC\1S 2022\Progra 092\201701173_Corto3\201701173_HOTEL\obj\Debug\201701173_HOTEL.exe
+C:\Users\Usuario\Documents\FIUSAC\1S 2022\Progra 092\201701173_Corto3\201701173_HOTEL\obj\Debug\201701173_HOTEL.xml
+C:\Users\Usuario\Documents\FIUSAC\1S 2022\Progra 092\201701173_Corto3\201701173_HOTEL\obj\Debug\201701173_HOTEL.pdb
